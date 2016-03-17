@@ -3,6 +3,4 @@
  */
 
 
-exprots.hello =  function(name){
-    console.log("hell : " + name);
-}
+exprots.JvsInput = require('./component/JvsInput');
