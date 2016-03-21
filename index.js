@@ -3,4 +3,4 @@
  */
 
 
-exprots.JvsInput = require('./component/JvsInput');
+exprots.JvsInput = require('./component/Input');
